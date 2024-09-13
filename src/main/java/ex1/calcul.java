@@ -1,12 +1,21 @@
 package ex1;
 
-public class calcul {
+/**
+ * Classe représentant des opérations de calcul simples.
+ */
+public class Calcul {
 
-    public int get1(int a, int b) {
+    /**
+     * Additionne deux nombres entiers.
+     */
+    public int additionner(int a, int b) {
         return a + b;
     }
 
-    public int get2(int a, int b) {
+    /**
+     * Soustrait deux nombres entiers.
+     */
+    public int soustraire(int a, int b) {
         return a - b;
     }
 }
