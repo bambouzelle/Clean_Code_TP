@@ -4,7 +4,7 @@ import java.util.Date;
 
 // Classe représentant une entreprise avec ses attributs principaux.
 
-public class Entreprise {
+public class entreprise {
 
     // Le capital maximal autorisé pour l'entreprise.
 
